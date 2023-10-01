@@ -2,4 +2,4 @@
 
 #1 Demo: https://3hqylc.csb.app/ 
 <br>
-(Learning about designing UI in React way)
+(Learning about UI Design in React way)
