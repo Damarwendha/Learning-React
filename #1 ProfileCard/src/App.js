@@ -32,7 +32,12 @@ function Footer() {
   return (
     <footer>
       {skills.map((skill) => (
-        <Skill text={skill.skill} emoji={skill.level} color={skill.color} />
+        <Skill
+          key={skill.skill}
+          text={skill.skill}
+          emoji={skill.level}
+          color={skill.color}
+        />
       ))}
     </footer>
   );
