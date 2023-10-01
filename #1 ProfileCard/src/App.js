@@ -45,8 +45,8 @@ function Skill({ text, emoji, color }) {
         {text + " "}
         <span>
           {emoji === "Beginner" && "👶"}
-          {emoji === "Intermediate" && "💪"}
-          {emoji === "Advanced" && "👍"}
+          {emoji === "Intermediate" && "👍"}
+          {emoji === "Advanced" && "💪"}
         </span>
       </p>
     </>
