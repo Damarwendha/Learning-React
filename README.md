@@ -1,6 +1,8 @@
 # Notes
 79. Fundamental of state management
-![alt text](https://github.com/Damarwendha/React/blob/main/20231003_111254.jpg?raw=true)
+
+![alt text](https://github.com/Damarwendha/React/blob/main/Screenshot_20231007-125540_Udemy_1.png?raw=true)
+<br>
 <br>
 111. Component Composition
 
