@@ -4,9 +4,9 @@
 <br>
 <a href='https://tphg5q.csb.app/'>#3 Date Counter v2
 <br>
-<a href='https://tphg5q.csb.app/'>#4 Tip Calculator
+<a href='https://8txk65.csb.app/'>#4 Tip Calculator
 <br>
-<a href='https://tphg5q.csb.app/'>#5 Reusable Text Expander
+<a href='https://6x934x.csb.app/'>#5 Reusable Text Expander
 <br>
 </em>
 
