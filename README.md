@@ -8,7 +8,7 @@
 <br>
 <a href='https://6x934x.csb.app/'>#5 Reusable Text Expander
 <br>
-<a href='https://s3mqqp.csb.app/'>#6 Currency Converter
+<a href='https://s3mqqp.csb.app/'>#6 Currency API Converter
 <br>
 </em>
 
