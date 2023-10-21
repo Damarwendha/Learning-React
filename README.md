@@ -2,17 +2,17 @@
 <em>
 <a href='https://3hqylc.csb.app/'>#1 Profile Card
 <br>
-<a href='https://tphg5q.csb.app/'>#3 Date Counter v2
+<a href='https://tphg5q.csb.app/'>#2 Date Counter v2
 <br>
-<a href='https://8txk65.csb.app/'>#4 Tip Calculator
+<a href='https://8txk65.csb.app/'>#3 Tip Calculator
 <br>
-<a href='https://6x934x.csb.app/'>#5 Reusable Text Expander
+<a href='https://6x934x.csb.app/'>#4 Reusable Text Expander
 <br>
-<a href='https://s3mqqp.csb.app/'>#6 Currency API Converter
+<a href='https://s3mqqp.csb.app/'>#5 Currency API Converter
 <br>
-<a href='https://wxywf3.csb.app/'>#7 Custom Hooks useGeolocation
+<a href='https://wxywf3.csb.app/'>#6 Custom Hooks useGeolocation
 <br>
-<a href='https://8zp4jc.csb.app/'>#8 useReducer Bank Account
+<a href='https://8zp4jc.csb.app/'>#7 useReducer Bank Account
 <br>
 </em>
 
