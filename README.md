@@ -34,6 +34,6 @@
 ![alt text](https://github.com/Damarwendha/React/blob/main/Screenshot_20231020-010922_Udemy_1.png?raw=true)
 <br>
 <br>
-169. Custom Hooks
+254. Memo use case
 
-![alt text](https://github.com/Damarwendha/React/blob/main/Screenshot_20231020-011133_Udemy_1.png?raw=true)
+![alt text](https://github.com/Damarwendha/React/blob/main/Screenshot_20231102-145158_Udemy.png?raw=true)
