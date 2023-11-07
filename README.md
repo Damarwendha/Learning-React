@@ -17,11 +17,6 @@
 </em>
 
 # My Notes
-79. Fundamental of state management
-
-![alt text](https://github.com/Damarwendha/React/blob/main/Screenshot_20231007-125540_Udemy_1.png?raw=true)
-<br>
-<br>
 127 - 128. How Rendering Works
 
 ![alt text](https://github.com/Damarwendha/React/blob/main/Screenshot_20231009-102014_Udemy_1.png?raw=true)
@@ -43,3 +38,10 @@
 
 ![alt text](https://github.com/Damarwendha/React/blob/main/Screenshot_20231107-074324_Udemy.png?raw=true)
 ![alt text](https://github.com/Damarwendha/React/blob/main/Screenshot_20231107-074401_Udemy.png?raw=true)
+<br>
+<br>
+283. Example of Application Planning
+
+![alt text](https://github.com/Damarwendha/React/blob/main/Screenshot_20231108-045827_Udemy.png?raw=true)
+![alt text](https://github.com/Damarwendha/React/blob/main/Screenshot_20231108-045859_Udemy.png?raw=true)
+![alt text](https://github.com/Damarwendha/React/blob/main/Screenshot_20231108-045932_Udemy.png?raw=true)
