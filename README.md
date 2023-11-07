@@ -37,3 +37,9 @@
 254. Memo use case
 
 ![alt text](https://github.com/Damarwendha/React/blob/main/Screenshot_20231102-145158_Udemy.png?raw=true)
+<br>
+<br>
+278. Context API or Redux
+
+![alt text](https://github.com/Damarwendha/React/blob/main/Screenshot_20231107-074324_Udemy.png?raw=true)
+![alt text](https://github.com/Damarwendha/React/blob/main/Screenshot_20231107-074401_Udemy.png?raw=true)
